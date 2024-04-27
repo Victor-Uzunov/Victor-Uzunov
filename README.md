@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victor-uzunov&label=Profile%20views&color=0e75b6&style=flat" alt="victor-uzunov" /> </p>
 
-- 🌱 I’m currently learning **JS, Spring**
+- 🌱 I’m currently learning: **JS, Spring**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Victor-Uzunov/Victor-Uzunov](https://github.com/Victor-Uzunov/Victor-Uzunov)
+- 👨‍💻 All of my projects are available at: [https://github.com/Victor-Uzunov/Victor-Uzunov](https://github.com/Victor-Uzunov/Victor-Uzunov)
 
-- 📫 How to reach me **uzunovvictor@gmail.com**
+- 📫 How to reach me: **uzunovvictor@gmail.com**
 
-- ⚡ Fun fact **I am national waterpolo player**
+- ⚡ Fun fact: **I am a national waterpolo player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
