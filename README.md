@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victor-uzunov&label=Profile%20views&color=0e75b6&style=flat" alt="victor-uzunov" /> </p>
 
-- 🌱 I’m currently learning: **Operating Systems**
+- 🌱 I’m currently learning: **Operating Systems, SQL**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/Victor-Uzunov/Victor-Uzunov](https://github.com/Victor-Uzunov/Victor-Uzunov)
 
