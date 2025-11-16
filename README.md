@@ -26,3 +26,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victor-uzunov&show_icons=true&locale=en" alt="victor-uzunov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victor-uzunov&" alt="victor-uzunov" /></p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=victor-uzunov&theme=github" />
+</p>
