@@ -28,5 +28,5 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victor-uzunov&" alt="victor-uzunov" /></p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=victor-uzunov&theme=github" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=victor-uzunov&theme=tokyo-night" />
 </p>
