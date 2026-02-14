@@ -10,7 +10,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 📫 How to reach me **uzunovvictor@gmail.com**
 
-- ⚡ Fun fact **I am national waterpolo player**
+- ⚡ Fun fact - I am national waterpolo player
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
